@@ -1,0 +1,32 @@
+.intro__container {
+display: flex;
+height: 280px;
+}
+.intro__list {
+    width: 350px;
+    font-family: Livvic;
+font-size: 64px;
+font-weight: 700;
+line-height: 100px;
+letter-spacing: 0px;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+}
+.intro__text {
+    width: 730px;
+    font-family: Livvic;
+font-size: 18px;
+font-weight: 600;
+line-height: 28px;
+letter-spacing: 0px;
+text-align: left;
+margin-top: 40px;
+
+}
+
+.about_intro {
+    background-image: url(../imgs/Group\ 8\ \(2\).svg);
+    background-repeat: no-repeat;
+    background-position:  bottom  right
+    
+}
